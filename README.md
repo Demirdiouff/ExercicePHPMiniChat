@@ -11,6 +11,8 @@ minichat_bdd.php : Page de connexion à la BDD
 minichat_post.php : Page de gestion d'ajout pseudo/messages à la BDD
 
 
+
+
 Améliorations possibles : 
 
 1) Retenir le pseudo de la personne pour qu'il soit affiché à l'avance après avoir envoyé un premier message
