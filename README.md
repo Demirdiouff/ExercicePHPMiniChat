@@ -5,7 +5,9 @@ Réalisation d'un exercice de mini chat simple en PHP dans le cadre d'un topic d
 3 fichiers : 
 
 minichat.php : Page globale avec formulaire pseudo/messages ainsi que requêtes pour récupérer les données SQL
+
 minichat_bdd.php : Page de connexion à la BDD
+
 minichat_post.php : Page de gestion d'ajout pseudo/messages à la BDD
 
 
